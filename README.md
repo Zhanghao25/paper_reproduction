@@ -1,0 +1,1 @@
+This project aims to replicate the research in the paper **"Crop switching can enhance environmental sustainability and farmer incomes in China"** to verify the potential benefits of crop rotation in improving environmental sustainability and farmer incomes in China.
